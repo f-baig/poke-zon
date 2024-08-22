@@ -3,4 +3,4 @@ this project aims to use AWS services and Amplify to deploy a web app for sellin
 
 the following diagram displays the project architecture created using Eraser.io
 
-![](../main/pokezon-cloud-infra.png)
+![](../main/pokezon-ci-small.png)
