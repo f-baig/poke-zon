@@ -3,4 +3,6 @@ this project aims to use AWS services and Amplify to deploy a web app for sellin
 
 the following diagram displays the project architecture created using Eraser.io (clarification: Card Scanner API is just integrated code not an API which still needs to be integrated)
 
+most of the functional code still hasn't been pushed (...) but it will be at some point when were not as busy.
+
 ![](../main/pokezon-ci-small.png)
